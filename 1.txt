@@ -1,3 +1,1 @@
 line1 commit 1
-line2 commit2
-line3 commit3
